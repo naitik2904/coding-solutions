@@ -43,9 +43,9 @@ Output: false
 ## Solution
 
 **Language:** Python  
-**Runtime:** 81 ms (beats 9.51%)  
-**Memory:** 36.4 MB (beats 73.12%)  
-**Submitted:** 2026-10-20T15:22:39.718Z  
+**Runtime:** 79 ms (beats 9.99%)  
+**Memory:** 36.3 MB (beats 73.12%)  
+**Submitted:** 2026-10-20T15:21:36.082Z  
 
 ```py
 # Sliding Window
