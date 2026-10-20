@@ -7,7 +7,7 @@ class Solution:
             return 0
         
         length = pow(2, n - 1)
-        mid = length / 2
+        mid = length // 2
 
         if(k <= mid):
             return self.kthGrammar(n - 1, k)
