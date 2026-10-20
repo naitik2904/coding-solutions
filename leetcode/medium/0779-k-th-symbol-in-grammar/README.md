@@ -53,9 +53,9 @@ row 2: 01
 ## Solution
 
 **Language:** Python  
-**Runtime:** 1 ms (beats 6.56%)  
-**Memory:** 19.1 MB (beats 90.29%)  
-**Submitted:** 2026-10-20T15:49:59.636Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 19.2 MB (beats 60.78%)  
+**Submitted:** 2026-10-20T15:51:42.514Z  
 
 ```py
 # Time Complexity: O(n)
@@ -67,7 +67,7 @@ class Solution:
             return 0
         
         length = pow(2, n - 1)
-        mid = length / 2
+        mid = length // 2
 
         if(k <= mid):
             return self.kthGrammar(n - 1, k)
