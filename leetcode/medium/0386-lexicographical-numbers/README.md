@@ -35,9 +35,9 @@ Output: [1,2]
 ## Solution
 
 **Language:** Python  
-**Runtime:** 0 ms  
-**Memory:** 19.4 MB  
-**Submitted:** 2026-10-27T16:57:58.697Z  
+**Runtime:** 21 ms (beats 16.54%)  
+**Memory:** 22.5 MB (beats 98.94%)  
+**Submitted:** 2026-10-27T16:58:10.019Z  
 
 ```py
 # TC: O(n)
