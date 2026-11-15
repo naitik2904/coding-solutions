@@ -54,9 +54,9 @@ Output: 0
 ## Solution
 
 **Language:** Python  
-**Runtime:** 9 ms (beats 10.88%)  
-**Memory:** 19.4 MB (beats 31.21%)  
-**Submitted:** 2026-11-15T11:05:20.462Z  
+**Runtime:** 0 ms  
+**Memory:** 19.3 MB  
+**Submitted:** 2026-11-15T11:05:37.902Z  
 
 ```py
 # TC: O(N * Target)
