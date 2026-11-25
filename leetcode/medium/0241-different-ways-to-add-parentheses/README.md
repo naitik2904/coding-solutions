@@ -47,9 +47,9 @@ Explanation:
 ## Solution
 
 **Language:** Python  
-**Runtime:** 3 ms (beats 32.76%)  
-**Memory:** 19.3 MB (beats 86.95%)  
-**Submitted:** 2026-10-26T15:33:25.489Z  
+**Runtime:** 2 ms (beats 35.75%)  
+**Memory:** 19.4 MB (beats 49.86%)  
+**Submitted:** 2026-11-25T15:31:49.324Z  
 
 ```py
 # T.C : O(n*2^n)
